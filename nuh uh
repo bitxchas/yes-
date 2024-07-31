@@ -30,6 +30,7 @@
   --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
+  --dplus-accent-color-alpha: 0.5;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 210;
