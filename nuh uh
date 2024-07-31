@@ -22,11 +22,11 @@
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 0;
-  --dplus-accent-color-saturation: 0%;
+  --dplus-accent-color-saturation: 1%;
   --dplus-accent-color-lightness: 4%;
 
 /* Foreground color: For things like text and icons. */
-  --dplus-foreground-color-hue-base: 120;
+  --dplus-foreground-color-hue-base: 0;
   --dplus-foreground-color-hue-links: 0;
   --dplus-foreground-color-saturation-amount: 0.5;
   --dplus-foreground-color-lightness-amount: 0.3;
@@ -34,7 +34,7 @@
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 0;
-  --dplus-background-color-saturation-amount: 0;
+  --dplus-background-color-saturation-amount: 0.3;
   --dplus-background-color-lightness-amount: 0.3;
   --dplus-background-color-alpha: 0.8;
 }
